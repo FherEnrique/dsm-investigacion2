@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">dsm_taller2</string>
+    <string name="visit_btn">Visitar</string>
+    <string name="restaurant_default_name">Restaurante</string>
+    <string name="owner_default">Dueño</string>
+    <string name="breakfast_label">Desayunos</string>
+    <string name="lunch_label">Almuerzo</string>
+    <string name="dinner_label">Cenas</string>
+</resources>
