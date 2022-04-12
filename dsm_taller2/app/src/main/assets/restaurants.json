@@ -1,0 +1,133 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "Cafetería 1",
+      "owner": "Mary",
+      "menu": {
+        "breakfast": [
+          {
+            "id": 1,
+            "name": "Pupusas de frijol",
+            "unitPrice": 0.25
+          },
+          {
+            "id": 2,
+            "name": "Pupusas de queso",
+            "unitPrice": 0.35
+          }
+        ],
+        "lunch": [
+          {
+            "id": 1,
+            "name": "Pollo asado",
+            "unitPrice": 1.25
+          },
+          {
+            "id": 2,
+            "name": "Carne asada",
+            "unitPrice": 2
+          },
+          {
+            "id": 3,
+            "name": "Tacos de lechuga",
+            "unitPrice": 0.75
+          }
+        ],
+        "dinner": [
+          {
+            "id": 1,
+            "name": "Pupusas de chicharron",
+            "unitPrice": 0.3
+          }
+        ]
+      }
+    },
+    {
+      "id": 2,
+      "name": "Cafetería 2",
+      "owner": "Jose",
+      "menu": {
+        "breakfast": [
+          {
+            "id": 1,
+            "name": "Pupusas de frijol",
+            "unitPrice": 0.25
+          },
+          {
+            "id": 2,
+            "name": "Pupusas de queso",
+            "unitPrice": 0.35
+          }
+        ],
+        "lunch": [
+          {
+            "id": 1,
+            "name": "Pollo asado",
+            "unitPrice": 1.25
+          },
+          {
+            "id": 2,
+            "name": "Carne asada",
+            "unitPrice": 2
+          },
+          {
+            "id": 3,
+            "name": "Tacos de lechuga",
+            "unitPrice": 0.75
+          }
+        ],
+        "dinner": [
+          {
+            "id": 1,
+            "name": "Pupusas de chicharron",
+            "unitPrice": 0.3
+          }
+        ]
+      }
+    },
+    {
+      "id": 3,
+      "name": "Cafetería 3",
+      "owner": "Fher",
+      "menu": {
+        "breakfast": [
+          {
+            "id": 1,
+            "name": "Pupusas de frijol",
+            "unitPrice": 0.25
+          }
+        ],
+        "lunch": [
+          {
+            "id": 1,
+            "name": "Pollo asado",
+            "unitPrice": 1.25
+          },
+          {
+            "id": 2,
+            "name": "Carne asada",
+            "unitPrice": 2
+          },
+          {
+            "id": 3,
+            "name": "Tacos de lechuga",
+            "unitPrice": 0.75
+          }
+        ],
+        "dinner": [
+          {
+            "id": 1,
+            "name": "Pupusas de chicharron",
+            "unitPrice": 0.3
+          },
+          {
+            "id": 2,
+            "name": "Pupusas de queso",
+            "unitPrice": 0.35
+          }
+        ]
+      }
+    }
+  ]
+}
